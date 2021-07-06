@@ -1,4 +1,4 @@
-FROM php:7.2-fpm-alpine
+FROM php:7.3.28-fpm-alpine
 
 # persistent dependencies
 RUN apk add --no-cache \
