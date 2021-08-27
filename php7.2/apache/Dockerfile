@@ -1,4 +1,4 @@
-FROM php:7.2-apache
+FROM php:7.4.22-apache
 
 # persistent dependencies
 RUN set -eux; \
