@@ -1,4 +1,4 @@
-FROM php:7.3-fpm
+FROM php:7.4.21-fpm
 
 # persistent dependencies
 RUN set -eux; \
